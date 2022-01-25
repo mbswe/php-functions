@@ -1,0 +1,17 @@
+{
+    "name": "mbswe/php-functions",
+    "description": "A collection of useful functions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Magnus Berntsson",
+            "email": "magnus@magnus.tech"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"mbswe\\Functions\\": "src/"}
+    },
+    "require": {}
+}
